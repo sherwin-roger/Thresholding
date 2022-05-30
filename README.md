@@ -28,6 +28,8 @@ Display the results.
 
 ## PROGRAM:
 ```python
+# Developed By   : SHERWIN ROGER R.D
+# Register Number: 212220230046
 # Load the necessary packages
 import cv2
 import numpy as np
